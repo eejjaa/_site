@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Emerson Arehart</title>
+    <description>This is the website for Emerson Arehart, mathematician, ecologist, and writer. Here you can find examples of my scientific work, non-fiction writing, and creative projects.
+</description>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Mon, 20 Jan 2020 11:18:00 -0700</pubDate>
+    <lastBuildDate>Mon, 20 Jan 2020 11:18:00 -0700</lastBuildDate>
+    <generator>Jekyll v4.0.0</generator>
+    
+  </channel>
+</rss>
